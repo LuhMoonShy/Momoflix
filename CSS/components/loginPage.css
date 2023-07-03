@@ -21,7 +21,7 @@ h1 {
 
 div#arthur {
   background-position: center center;
-  background-image: url(/assets/iconProfile.jpeg);
+  background-image: url(../assets/iconProfile.jpeg);
   background-size: contain;
   background-repeat: no-repeat;
   position: absolute;
